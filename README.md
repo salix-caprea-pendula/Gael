@@ -1,5 +1,5 @@
 <h1>About</h1>
-Gael is an in-progress visual novel project being written by me in my free time. I have been playing around with the story concepts that are now becoming Gael since sophomore year of college, and am hoping to bring them to fruition over the next few years while combining my programming skils and my passion for music and writing.
+Gael is an in-progress visual novel project being written by me in my free time. I have been playing around with the story concepts that are now becoming Gael since sophomore year of college, and am hoping to bring them to fruition over the next few years while combining my programming skils and my passion for music and writing. Right now Gael is being developed entirely with placeholder images and commissioned pieces, but I am actively looking for an artist collaborator(s) who are interested in working with me on character art and background art.
 <h1>Contact</h1>
 If you are a visual artist and are interested in working with me on Gael, please reach out at wlafaso@outlook.com. I am interested in potentially illustrating Gael with some pieces of scanned traditional art as well as digital. 
 <h1>Summary</h1>
